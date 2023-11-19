@@ -1,15 +1,14 @@
 # UTS PBO | Semester 3
 
 1. Perbedaan dari Interface dan Abstract Class!
-   
-Interface adalah beberapa fungsi yang dikelompokkan yang dapat
+   Interface adalah beberapa fungsi yang dikelompokkan yang dapat
 diimplementasikan oleh suatu kelas, interface tidak boleh berisi field dan 
 memungkinkan kita untuk mengimplementasikan metode serupa di kelas yang tidak 
 memiliki koneksi. Sedangkan Abstract Class adalah kelas yang berisi metode abstrak. 
 Abstract Class dapat berisi bidang dan konstanta dan Abstract Class akan selalu 
 menjadi superkelas/hierarki tertinggi dari subkelasnya.
 
-2. Perbedaan dari Override dan Overload!
+3. Perbedaan dari Override dan Overload!
    
 Override adalah sebuah metode yang dipakai untuk kelas induk atau superclass, 
 Override harus memiliki nama dan class yang sama dan harus menggunakan 
